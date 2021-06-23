@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TreinamentoRecyclerView</string>
+    <string name="tv_telefone_celular">Telefone Celular:</string>
+    <string name="tv_telefone_residencial">Telefone Residencial:</string>
+</resources>
